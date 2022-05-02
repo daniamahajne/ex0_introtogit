@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Favorite color: white
 Favorite food: sushi
 Favorite musician/band: selena gomez
